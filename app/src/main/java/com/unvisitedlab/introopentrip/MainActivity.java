@@ -5,6 +5,8 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 
+import com.unvisitedlab.introopentrip.intro_app.IntroActivity;
+
 import java.util.ArrayList;
 import java.util.List;
 
